@@ -1,11 +1,11 @@
 # 📄 Automated Resume Parsing and Job Fit Prediction
 
-## 🚀 Project Overview
+##  Project Overview
 This project is an end-to-end system that parses resumes in PDF format, extracts structured information, and matches candidate profiles against job descriptions using semantic similarity. The final output is a detailed Excel report ranking resumes based on how well they fit the job requirements.
 
 ---
 
-## 🧠 Problem Solved
+##  Problem Solved
 Recruiters often receive thousands of resumes per role. Manually screening them is time-consuming and error-prone. This system automates:
 
 - Resume parsing (education, experience, projects, etc.)
@@ -16,7 +16,7 @@ Recruiters often receive thousands of resumes per role. Manually screening them 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Python
 - `pdfplumber` or `PyMuPDF` for PDF parsing
@@ -27,7 +27,7 @@ Recruiters often receive thousands of resumes per role. Manually screening them 
 
 ---
 
-## 💡 Key Features
+##  Key Features
 
 - Parses resumes from a folder of PDFs
 - Extracts key fields: Institute, Year, CGPA, Branch, Experience, Projects
@@ -37,7 +37,7 @@ Recruiters often receive thousands of resumes per role. Manually screening them 
 
 ---
 
-## ⚖️ Why These Tools Were Chosen
+##  Why These Tools Were Chosen
 
 ### ✅ PDF Parsing: `pdfplumber`
 Chosen for accurate and lightweight extraction of text from PDFs. It works well for standard resume layouts.
@@ -74,6 +74,7 @@ Feel free to connect on:
 
 - [LinkedIn](https://www.linkedin.com/in/aaisha-rani-499a5a128/)
 - [GitHub](https://github.com/Aaisha-Rani/)
+- [LinkedIn](https://www.linkedin.com)
 
 ---
 
