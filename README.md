@@ -74,7 +74,7 @@ Feel free to connect on:
 
 - [LinkedIn](https://www.linkedin.com/in/aaisha-rani-499a5a128/)
 - [GitHub](https://github.com/Aaisha-Rani/)
-- [LinkedIn](https://www.linkedin.com)
+  
 
 ---
 
